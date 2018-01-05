@@ -25,7 +25,7 @@
 <code>git remote show origin</code>
 
 
-<b>#3. Add files to repository
+<b>#3. Add files to repository</b>
 
 • Open Git Bash.
 
