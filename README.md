@@ -1,45 +1,56 @@
-# Documents of me
+# <font color="red">Documents of me</font>
 
-<b>1. Clone all last modifile in GitHub</b>
+<b>#1. Clone all last modifile in GitHub</b>
 
 <code>git fetch --all</code>
 
-git reset --hard origin/master
+<code>git reset --hard origin/master</code>
 
-git pull origin master
+<code>git pull origin master</code>
 
-#2. Show all Branch
-git ls-remote
+<b>#2. Show all Branch</b>
 
-OR:
-git branch -a
+<code>git ls-remote</code>
 
-OR:
-git branch -r
+<b><i>OR:</i></b>
 
-OR:
-git remote show origin
+<code>git branch -a</code>
+
+<b><i>OR:</i></b>
+
+<code>git branch -r</code>
+
+<b><i>OR:</i></b>
+
+<code>git remote show origin</code>
 
 
-#3. Add files to repository
-Open Git Bash.
+<b>#3. Add files to repository
 
-Change the current working directory to your local project.
+• Open Git Bash.
 
-Initialize the local directory as a Git repository.
-git init
+• Change the current working directory to your local project.
 
-Add the files in your new local repository
-git add . || git add <file_name.type>
+• Initialize the local directory as a Git repository.
 
-Commit the files that you've staged in your local repository.
-git commit -m "Desscription Details"
+<code>git init</code>
 
-Sets the "new" remote (first)
-git remote add origin <remote_repository_URL>
+• Add the files in your new local repository
 
-Verifies the new remote URL (second +)
-git remote -v
+<code>git add . || git add <file_name.type></code>
 
-Push the changes in your local repository to GitHub.
-git push origin master || git push origin <branch_name>
+• Commit the files that you've staged in your local repository.
+
+<code>git commit -m "Description Details"</code>
+
+• Sets the "new" remote (first)
+
+<code>git remote add origin <remote_repository_URL></code>
+
+• Verifies the new remote URL (second +)
+
+<code>git remote -v</code>
+
+• Push the changes in your local repository to GitHub.
+
+<code>git push origin master || git push origin <branch_name></code>
