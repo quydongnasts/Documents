@@ -1,6 +1,7 @@
 # Documents of me
 
 #1. Clone all last modifile in GitHub
+
 <code>git fetch --all</code>
 
 git reset --hard origin/master
