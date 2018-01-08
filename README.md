@@ -4,7 +4,7 @@
 
 • <code>cd</code>: Go to derectory location
 
-• <code>ls</code>: Show all directory present
+• <code>ls</code>: Show all directory in folder
 
 • <code>mkdir <folder_name></code>: Create a new folder
 
@@ -19,6 +19,8 @@
 • <code>git branch name_brand</code>: Create a new branch
 
 • <code>git checkout name_branch</code>: Change branch work
+
+• <code>git pull origin master</code>: Pull source modify if repository exists
 
 <b>#1. Clone all last modifile in GitHub</b>
 
