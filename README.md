@@ -1,4 +1,24 @@
-# <font color="red">Documents of me</font>
+# Documents of me
+
+# Git commands basic
+
+• <code>cd</code>: Go to derectory location
+
+• <code>ls</code>: Show all directory present
+
+• <code>mkdir <folder_name></code>: Create a new folder
+
+• <code>> <file_name.extension></code>: Create a new file with specific extension
+
+• <code>mv <file_old_name.extension> <file_new_name.extension></code>: Change file name
+
+• <code>rm -rf <file_name.extension></code>: Remove file
+
+# Github commands basic
+
+• <code>git branch name_brand</code>: Create a new branch
+
+• <code>git checkout name_branch</code>: Change branch work
 
 <b>#1. Clone all last modifile in GitHub</b>
 
