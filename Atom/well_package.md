@@ -16,7 +16,15 @@
 
 • Install two packages in Atom: <code>linter-eslint</code> & <code>linter</code> 
 
-<i>noted: never add sub package if show the suggestions without Atom panel</i>
+<b>noted:</b>
+
+<i> never add sub package if show the suggestions without Atom panel</i>
+
+<i> if show errors is not defined, you must add flow command in the top file:</i>
+
+<code>/*global
+alert, confirm, console, Debug, opera, prompt, WSH
+*/</code>
 
 • Open <code>gitbash</code> in root project
 
