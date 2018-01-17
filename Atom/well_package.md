@@ -6,9 +6,13 @@
 
 • https://atom.io/packages/react-native-components
 
-#Following JSX tag closure
+# Following JSX tag closure
 
 • https://atom.io/packages/language-babel
+
+# Allows you to copy relative path to current file from tree view
+
+• https://atom.io/packages/tree-view-copy-relative-path
 
 # Detect JSX syntax errors (6 steps)
 
