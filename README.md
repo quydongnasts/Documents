@@ -16,6 +16,8 @@
 
 # Github commands basic
 
+• <code>git remote set-url origin ssh://git@github.com/derekerdmann/lunch_call.git</code>: Set Url from https to ssh
+
 • <code>git branch name_brand</code>: Create a new branch
 
 • <code>git checkout name_branch</code>: Change branch work
